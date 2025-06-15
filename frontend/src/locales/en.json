@@ -1,0 +1,266 @@
+{
+  "select-language": "Select Language",
+  "cancel-label": "Cancel",
+  "home": "Home",
+  "auth": {
+    "login_title": "Login",
+    "register_title": "Register",
+    "logout_title": "Logout",
+    "success_login": "Welcome back",
+    "success_signUp": "Welcome",
+    "welcome_back": "Welcome Back",
+    "placeholder": {
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "phone_number": "Phone Number",
+      "email": "Email Address",
+      "password": "Password"
+    },
+    "no_permission": {
+      "title": "No Permission",
+      "you_have_no_permission": "Sorry, You do not have permission to access this page.",
+      "content": "Your account does not have permission to access page, If you think this is a mistake, please contact site administrator.",
+      "back_to_previous_page": "Back to previous page"
+    },
+    "errors": {
+      "name": {
+        "required": "Your first name is required",
+        "invalid": "Invalid first name"
+      },
+      "last_name": {
+        "required": "Last name is required"
+      },
+      "phone_number": {
+        "required": "Phone number is required",
+        "invalid": "Phone number must start with 963 and be 12 digits total"
+      },
+      "email": {
+        "required": "Enter your email, it will be required to login",
+        "format": "Please, enter a valid email"
+      },
+      "password": {
+        "required": "Enter your password with at least 8 characters, it will be required to login",
+        "length": "The password should contains at leat 8 characters",
+        "invalid": "Invalid password"
+      }
+    }
+  },
+  "no_permission": {
+    "title": "No Permission",
+    "you_have_no_permission": "Sorry, You do not have permission to access this page.",
+    "content": "Your account does not have permission to access page, If you think this is a mistake, please contact site administrator.",
+    "back_to_previous_page": "Back to previous page"
+  },
+  "validation": {
+    "required": "This field is required",
+    "number": {
+      "price": "Please enter a valid price",
+      "invalid_type_error": "Please enter a valid number",
+      "payment_percentage": "Please enter a number from 0-100",
+      "phone_number": "Please enter a valid phone number",
+      "larger_thar_zero": "Must be greater than zero"
+    },
+    "date": {
+      "required_error": "Please select a date and time",
+      "invalid_type_error": "That's not a date!",
+      "format": "Date must be a vaild date format YYYY-MM-DD"
+    },
+    "text": {
+      "invalid_type_error": "Please enter a text"
+    },
+    "URL": {
+      "invalid_type_error": "Please enter a valid URL"
+    }
+  },
+  "language": {
+    "english": "English",
+    "arabic": "Arabic",
+    "ar": "Arabic",
+    "en": "English"
+  },
+  "city": {
+    "add": "Add City",
+    "edit": "Edit City",
+    "update": "Update",
+    "delete": "Delete",
+    "name": "city name",
+    "name_placeholder": "Enter City Name",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "all": "All",
+    "actions": "Actions",
+    "number_in_page": "Per Page",
+    "form": {
+      "reset": "Reset"
+    }
+  },
+  "department": {
+    "add": "Add Department",
+    "edit": "Edit Department",
+    "update": "Update",
+    "delete": "Delete",
+    "name": "department name",
+    "name_placeholder": "Enter Department Name",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "all": "All",
+    "actions": "Actions",
+    "number_in_page": "Per Page",
+    "form": {
+      "reset": "Reset"
+    }
+  },
+  "room": {
+    "add": "Add Room",
+    "edit": "Edit Room",
+    "update": "Update",
+    "delete": "Delete",
+    "number": "room number",
+    "floor": "room floor",
+    "department": "room department ",
+    "name_placeholder": "Enter Room Number",
+    "floor_placeholder": "Enter Room Floor",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "all": "All",
+    "actions": "Actions",
+    "number_in_page": "Per Page",
+    "form": {
+      "reset": "Reset",
+      "select": "Select Department"
+    }
+  },
+  "user": {
+    "add": "Add User",
+    "edit": "Edit User",
+    "update": "Update",
+    "delete": "Delete",
+    "name": "User Name",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "room": "user room ",
+    "city": "user city ",
+    "userstatus": "User Status",
+    "role": "Role",
+    "details": "Details",
+    "name_placeholder": "Enter User Name",
+    "files_add": "Upload New File",
+    "address_placeholder": "Enter Address",
+    "phone_number_placeholder": "Enter Phone Number",
+    "first_name_placeholder": "Enter First Name",
+    "last_name_placeholder": "Enter Last Name",
+    "password_placeholder": "Enter Password",
+    "password": "Password",
+    "gender": "Gender",
+    "files": "Files Details",
+    "phone_number": "Phone Number",
+    "birth_date": "Birth Date",
+    "address": "Address",
+    "roles": "Roles",
+    "male": "Male",
+    "female": "Female",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "all": "All",
+    "actions": "Actions",
+    "number_in_page": "Per Page",
+    "form": {
+      "reset": "Reset",
+      "select_city": "Select City",
+      "select_room": "Select Room Number",
+      "select": "Select Option"
+    }
+  },
+  "nationality": {
+    "nationality": "Nationality",
+    "add": "Add Nationality",
+    "edit": "Edit Nationality",
+    "update": "Update",
+    "delete": "Delete",
+    "name": "Nationality name",
+    "name_placeholder": "Enter Nationality Number",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "all": "All",
+    "actions": "Actions",
+    "number_in_page": "Per Page",
+    "form": {
+      "reset": "Reset"
+    }
+  },
+  "role": {
+    "role": "Role",
+    "add": "Add Role",
+    "edit": "Edit Role",
+    "update": "Update",
+    "users_count": "User Count",
+    "permissions": "Permissions",
+    "permissions_count": "Permissions Count",
+    "created_by": "Created By",
+    "delete": "Delete",
+    "name": "Role name",
+    "display_name": "Display Name",
+    "name_placeholder": "Enter Role Name",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "all": "All",
+    "actions": "Actions",
+    "number_in_page": "Per Page",
+    "form": {
+      "reset": "Reset"
+    }
+  },
+  "userstatus": {
+    "userstatus": "User Status",
+    "add": "Add User Status",
+    "edit": "Edit User Status",
+    "update": "Update",
+    "delete": "Delete",
+    "name": "User Status name",
+    "name_placeholder": "Enter User Status Name",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "all": "All",
+    "actions": "Actions",
+    "number_in_page": "Per Page",
+    "form": {
+      "reset": "Reset"
+    }
+  },
+  "images": {
+    "image_name_placeholder": "Choose File",
+    "image_select_file": "No file selected",
+    "accepted_file": "Supported types: jpeg, png, webp, pdf",
+    "megabyte": "MB",
+    "unknown_size": "Unknown size",
+    "by": "by"
+  },
+
+  "contractor": {
+    "details": {
+      "upload": "Upload"
+    }
+  },
+  "status": {
+    "active": "Active",
+    "inactive": "Inactive"
+  },
+  "boolean": {
+    "true": "Yes",
+    "false": "No"
+  },
+  "settings": "Settings",
+  "cities": "Cities",
+  "departements": "Departements",
+  "rooms": "Rooms",
+  "users": "Users",
+  "media": "Media",
+  "roles": "Roles"
+}

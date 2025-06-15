@@ -1,0 +1,205 @@
+{
+  "select-language": "تحديد اللغة",
+  "cancel-label": "الغاء",
+  "main_dashboard": "لوحة التحكم",
+  "home": "الرئيسية",
+  "auth": {
+    "login_title": "تسجيل الدخول",
+    "register_title": "انشاء حساب",
+    "logout_title": "تسجيل الخروج",
+    "success_login": "أهلاً بعودتك",
+    "success_signUp": "مرحبا",
+    "title": "أنضم الينا الآن.",
+    "subtitle": "ابدأ بإنشاء حسابك",
+    "label": {
+      "promotional": "تلقي العروض الترويجية"
+    },
+    "action": {
+      "login": "لدي حساب بالفعل",
+      "signup": "انشاء حساب"
+    },
+    "welcome_back": "مرحبًا بعودتك! يرجى تسجيل الدخول إلى حسابك.",
+    "placeholder": {
+      "first_name": "الاسم الأول",
+      "email": "البريد الالكتروني",
+      "last_name": "الاسم الاخير",
+      "phone_number": "رقم الهاتف",
+      "password": "كلمة المرور",
+      "passwordCheck": "التحقق من كلمة المرور"
+    },
+
+    "errors": {
+      "name": {
+        "required": "الاسم الأول مطلوب",
+        "invalid": "الاسم الاول غير صالح"
+      },
+      "last_name": {
+        "required": "الاسم الاخير مطلوب"
+      },
+      "phone_number": {
+        "required": "رقم الهاتف مطلوب",
+        "invalid": "رقم الهاتف غير صالح"
+      },
+      "email": {
+        "required": "ادخل بريدك الالكتروني, مطلوب لتسجيل الدخول",
+        "format": "من فضلك, ادخل بريد الكتروني صالح"
+      },
+      "password": {
+        "required": "ادخل كلمة المرور الخاصة بك مع 8 أحرف على الأقل, مطلوب لتسجيل الدخول",
+        "length": "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل",
+        "invalid": "كلمة السر غير صالحة"
+      },
+      "passwordCheck": {
+        "required": "من فضلك, قم بتأكيد كلمة المرور الخاصة بك",
+        "match": "كلمة المرور غير متطابقة"
+      }
+    },
+    "form": {
+      "welcome_back": "أهلاً بعودتك.",
+      "sign_in": "من فضلك قم بتسجيل الدخول الى حسابك",
+      "placeholders": {
+        "phone": "رقم الهاتف",
+        "password": "كلمة المرور"
+      },
+      "sign_in_button": "تسجيل الدخول"
+    },
+    "no_permission": {
+      "title": "لا يوجد صلاحية",
+      "you_have_no_permission": "عذراً, أنت لا تملك صلاحيات للدخول لهذه الصفحة.",
+      "content": "حسابك لا يملك الصلاحية لعرض الصفحة, إذا كنت تظن أن هناك خطأ ما, يرجى التواصل مع مدير الموقع",
+      "back_to_previous_page": "العودة إلى الصفحة السابقة"
+    }
+  },
+
+  "language": {
+    "english": "الإنجليزية",
+    "arabic": "العربية",
+    "ar": "العربية",
+    "en": "الإنجليزية"
+  },
+  "city": {
+    "add": "اضافة مدينة",
+    "edit": "تعديل المدينة",
+    "update": "تعديل",
+    "delete": "حذف",
+    "name": "اسم المدينة",
+    "name_placeholder": "ادخل اسم المدينة",
+    "status": "الحالة",
+    "active": "فعال",
+    "inactive": "غير فعال",
+    "all": "الكل",
+    "actions": "الاجراءات",
+    "number_in_page": "في الصفحة",
+    "form": {
+      "reset": "تهيئة"
+    }
+  },
+  "department": {
+    "add": "اضافة قسم",
+    "edit": "تعديل القسم",
+    "update": "تعديل",
+    "delete": "حذف",
+    "name": "اسم القسم",
+    "name_placeholder": "ادخل اسم القسم",
+    "status": "الحالة",
+    "active": "فعال",
+    "inactive": "غير فعال",
+    "all": "الكل",
+    "actions": "الاجراءات",
+    "number_in_page": "في الصفحة",
+    "form": {
+      "reset": "تهيئة"
+    }
+  },
+  "room": {
+    "add": "اضافة غرفة",
+    "edit": "تعديل الغرفة",
+    "update": "تعديل",
+    "delete": "حذف",
+    "name": "رقم الغرفة",
+    "floor": "طابق الغرفة",
+    "department": "قسم الغرفة",
+    "name_placeholder": "ادخل رقم الغرفة",
+    "floor_placeholder": "ادخل رقم الطابق",
+    "status": "الحالة",
+    "active": "فعال",
+    "inactive": "غير فعال",
+    "all": "الكل",
+    "actions": "الاجراءات",
+    "number_in_page": "في الصفحة",
+    "form": {
+      "reset": "تهيئة",
+      "select": "اختر قسم"
+    }
+  },
+  "user": {
+    "add": "اضافة مستخدم",
+    "edit": "تعديل مستخدم",
+    "update": "تعديل",
+    "delete": "حذف",
+    "name": "اسم مستخدم",
+    "department": "قسم الغرفة",
+    "name_placeholder": "ادخل اسم المستخدم ",
+    "status": "الحالة",
+    "active": "فعال",
+    "inactive": "غير فعال",
+    "all": "الكل",
+    "actions": "الاجراءات",
+    "number_in_page": "في الصفحة",
+    "form": {
+      "reset": "تهيئة",
+      "select": "اختر قسم"
+    }
+  },
+  "nationality": {
+    "nationality": "الجنسيات",
+    "add": "اضافة جنسية",
+    "edit": "تعديل جنسية",
+    "update": "تعديل",
+    "delete": "حذف",
+    "name": "رقم الجنسية",
+    "name_placeholder": "ادخا اسم الجنسية",
+    "status": "الحالة",
+    "active": "فعال",
+    "inactive": "غير فعال",
+    "all": "الكل",
+    "actions": "الاجراءات",
+    "number_in_page": "في الصفحة",
+    "form": {
+      "reset": "تهيئة"
+    }
+  },
+  "userstatus": {
+    "nationality": "حالات المستخدم",
+    "add": "اضافة حالة مستخدم",
+    "edit": "تعديل حالة مستخدم",
+    "update": "تعديل",
+    "delete": "حذف",
+    "name": "اسم حالة المستخدم",
+    "name_placeholder": "ادخا اسم حالة المستخدم",
+    "status": "الحالة",
+    "active": "فعال",
+    "inactive": "غير فعال",
+    "all": "الكل",
+    "actions": "الاجراءات",
+    "number_in_page": "في الصفحة",
+    "form": {
+      "reset": "تهيئة"
+    }
+  },
+  "status": {
+    "active": "فعال",
+    "inactive": "غير فعال"
+  },
+  "boolean": {
+    "true": "نعم",
+    "false": "لا"
+  },
+  "settings": "الاعدادات",
+  "cities": "المدن",
+  "departements": "الاقسام",
+  "rooms": "الغرف",
+  "users": "المستخدمين",
+  "media": "الملفات",
+  "roles": "الصلاحيات"
+}
