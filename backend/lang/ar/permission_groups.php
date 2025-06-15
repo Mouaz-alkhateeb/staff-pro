@@ -1,0 +1,30 @@
+<?php
+
+return [
+    "customer" => "الزبائن",
+    "customer_service" => "خدمة الزبائن",
+    "ticket" => "التذاكر",
+    "waiting_list" => "قوائم الانتظار",
+    "hr" => "الموارد البشرية",
+    "attenance" => "الحضور",
+    "salary" => "الرواتب",
+    "service_provider" => "مخدمو الخدمات",
+    "accounting" => "المالية",
+    "account" => "الحسابات",
+    "transaction" => "القيود المالية",
+    "inventory" => "المستودعات",
+    "item_and_category" => "المواد والفئات",
+    "services" => "الخدمات",
+    "supplier" => "الموردون",
+    "user" => "المستخدمون",
+    "media" => "الصور والملفات",
+    "medical_info" => "المعلومات الطبية",
+    "role_and_permission" => "الأدوار والصلاحيات",
+    "social_media" => "التواصل الاجتماعي",
+    "others" => "أخرى",
+    "settings" => "الإعدادات",
+    "hr_settings" => "إعدادات الموارد البشرية",
+    "personal_information_settings" => "إعدادات المعلومات الشخصية",
+    "center_information_settings" => "إعدادات معلومات المركز",
+    "cash_receipts" => "الإيصالات النقدية"
+];
